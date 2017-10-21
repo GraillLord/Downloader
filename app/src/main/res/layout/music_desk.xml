@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainlayout"
+    android:background="#ffffff">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <android.inputmethodservice.ExtractEditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/edittext"
+            android:layout_weight="10"/>
+
+        <Button
+            android:text="Create"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/plBtn"
+            android:layout_weight="3" />
+
+    </LinearLayout>
+
+        <ListView
+            android:id="@+id/playlist"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="6"
+            android:divider="#b5b5b5"
+            android:dividerHeight="1dp"
+            android:cacheColorHint="#00000000"/>
+
+</LinearLayout>

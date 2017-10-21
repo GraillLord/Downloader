@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mp3Tube</string>
+    <string name="actions">Sélectionner une action :</string>
+    <string name="rename">Renommer</string>
+    <string name="renamefile">Musique renommée avec succès</string>
+    <string name="renamepl">Playliste renommée avec succès</string>
+    <string name="delete">Supprimer</string>
+    <string name="deletefile">Musique supprimée avec succès</string>
+    <string name="deletepl">Playliste supprimée avec succès</string>
+    <string name="delete_message">Voulez-vous vraiment la supprimer du téléphone ?</string>
+    <string name="addtrck">Ajouter des musiques</string>
+    <string name="addtopl">Ajouter à la playliste</string>
+    <string name="cancel">Annuler</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="playing">En cours</string>
+    <string name="pause">Pause</string>
+    <string name="no_video">Désolé aucune vidéo trouvée</string>
+    <string name="no_video2">SVP sélectionner une vidéo ou recharger la page !</string>
+    <string name="downloading">Téléchargment en cours</string>
+    <string name="down_success">Téléchargement réussi !</string>
+    <string name="granted">Permission Accordée</string>
+    <string name="denied">Permission Refusée</string>
+    <string name="thanks">Merci d\'utiliser Mp3Tube !</string>
+    <string name="checkbox_title">LISEZ-ATTENTIVEMENT !</string>
+    <string name="checkbox">Pour voir vos nouvelles musiques:\n
+        swipez vers la droite pour accéder à votre liste de musique puis swipez vers le bas pour rechager le contenu.\n
+        Pour voir le playlist maker:\n
+        swipez vers la gauhe puis puis utilisez la barre de recherche et les bouttons pour créer vos propre playlistes.\n
+        Merci d\'utiliser Mp3Tube :)
+    </string>
+    <string name="donotshowagain">Ne plus montrer</string>
+
+</resources>

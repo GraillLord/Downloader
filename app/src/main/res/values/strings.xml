@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Mp3Tube</string>
+    <string name="actions">Select an action :</string>
+    <string name="rename">Rename</string>
+    <string name="renamefile">Track renamed with success</string>
+    <string name="renamepl">Playlist renamed with success</string>
+    <string name="delete">Delete</string>
+    <string name="deletefile">Track deleted with success</string>
+    <string name="deletepl">Playlist deleted with success</string>
+    <string name="delete_message">Do you really want to delete it from the phone ?</string>
+    <string name="addtrck">Add tracks</string>
+    <string name="addtopl">Add to playlist</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="no_video">Sorry no video found</string>
+    <string name="no_video2">Please select a video or reload page !</string>
+    <string name="downloading">Downloading File</string>
+    <string name="down_success">Downloading Successful !</string>
+    <string name="granted">Permission Granted</string>
+    <string name="denied">Permission Denied</string>
+    <string name="thanks">Thank you for using Mp3Tube !</string>
+    <string name="checkbox_title">PLEASE READ CAREFULLY !</string>
+    <string name="checkbox">-To see newly downloaded musics:\n
+        swipe right to access your music list then swipe down to refresh its content.\n
+        -To see the playlist maker:\n
+        swipe left then you can use the search bar and the buttons to make your own playlists.\n
+        Thank you for using Mp3Tube :)
+    </string>
+    <string name="donotshowagain">Do not show again</string>
+
+
+</resources>
